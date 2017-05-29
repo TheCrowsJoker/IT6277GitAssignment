@@ -1,3 +1,3 @@
 print("testing...")
 
-print("New line added in master")
+print("Line added in newBranch3")
